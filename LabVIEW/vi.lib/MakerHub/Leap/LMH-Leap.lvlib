@@ -12,7 +12,6 @@
 	<Item Name="Help" Type="Folder">
 		<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Getting Started.vi"/>
 		<Item Name="Open Source.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Open Source.vi"/>
-		<Item Name="Product Page.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Product Page.vi"/>
 		<Item Name="Forums.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Forums.vi"/>
 		<Item Name="Tutorials.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Tutorials.vi"/>
 	</Item>
@@ -47,9 +46,9 @@
 			<Item Name="Swipe Direction.ctl" Type="VI" URL="../Private/Type Defs/Swipe Direction.ctl"/>
 		</Item>
 		<Item Name="Libs" Type="Folder">
-			<Item Name="Leap.dll" Type="Document" URL="../Private/Libs/Leap.dll"/>
-			<Item Name="LeapCSharp.dll" Type="Document" URL="../Private/Libs/LeapCSharp.dll"/>
-			<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="../Private/Libs/LeapCSharp.NET3.5.dll"/>
+			<Item Name="Leap.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Leap/Private/Libs/Leap.dll"/>
+			<Item Name="LeapCSharp.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Leap/Private/Libs/LeapCSharp.dll"/>
+			<Item Name="LeapCSharp.NET3.5.dll" Type="Document" URL="/&lt;vilib&gt;/MakerHub/Leap/Private/Libs/LeapCSharp.NET3.5.dll"/>
 		</Item>
 		<Item Name="Installer" Type="Folder">
 			<Item Name="Check Leap Driver.vi" Type="VI" URL="../Private/Installer/Check Leap Driver.vi"/>
