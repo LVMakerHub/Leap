@@ -11,9 +11,9 @@
 </Property>
 	<Item Name="Help" Type="Folder">
 		<Item Name="Getting Started.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Getting Started.vi"/>
-		<Item Name="Open Source.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Open Source.vi"/>
 		<Item Name="Forums.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Forums.vi"/>
 		<Item Name="Tutorials.vi" Type="VI" URL="../../../../help/MakerHub/Leap/Tutorials.vi"/>
+		<Item Name="GitHub.vi" Type="VI" URL="../../../../help/MakerHub/Leap/GitHub.vi"/>
 	</Item>
 	<Item Name="Examples" Type="Folder">
 		<Item Name="Leap Circle Gesture Progress.vi" Type="VI" URL="../../../../examples/MakerHub/Leap/Leap Circle Gesture Progress.vi"/>
